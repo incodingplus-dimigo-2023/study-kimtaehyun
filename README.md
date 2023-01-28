@@ -1,2 +1,4 @@
 # study-kimtaehyun
-my first github repository
+- 첫번쨰
+- 두번쨰
+- 세번째
